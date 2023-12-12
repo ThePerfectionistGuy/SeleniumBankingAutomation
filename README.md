@@ -2,7 +2,7 @@
 
 <h1>Banking Domain Autoamtion - UI </h1>
 
- ### [DEMO URL](https://demo.guru99.com/v3/index.php)
+ ### [Test Suite Repo](https://demo.guru99.com/v3/index.php)
 
 <h2>Description</h2>
 Project consists of a Selenium Webdriver, TestNG, Maven Build tool and Jhenkins for CI/CD intergration.I successfully automated UI elements using Selenium within the banking domain. Leveraging the power of Selenium, I developed robust scripts to streamline and enhance the testing process. This automation initiative focused on key UI elements critical to the banking application's functionality, ensuring accuracy and efficiency in the testing workflow. Through systematic test scenarios and Selenium's capabilities, the project aimed to validate the seamless interaction of users with various banking features, contributing to an overall improvement in software quality within the financial domain.
