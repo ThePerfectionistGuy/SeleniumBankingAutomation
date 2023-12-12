@@ -13,6 +13,11 @@ Project consists of a Selenium Webdriver, TestNG, Maven Build tool and Jhenkins 
 
 - <b>Java</b> 
 - <b>TestNG</b>
+- <b>Maven</b>
+- <b>Jenkins</b>
+
+
+
 
 <h2>Environments Used </h2>
 
