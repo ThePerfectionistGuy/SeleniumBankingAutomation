@@ -36,7 +36,7 @@ Test Script (CODE):  <br/>
 <img src="https://i.imgur.com/OaySL1C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Launch Test: <br/>
 <img src="https://i.imgur.com/XhAcVo2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
