@@ -28,8 +28,8 @@ Project consists of a Selenium Webdriver, TestNG, Maven Build tool and Jhenkins 
 <h2>Automation Test walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+File Structure: <br/>
+<img src="https://imgur.com/a/NVCSgCW" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
