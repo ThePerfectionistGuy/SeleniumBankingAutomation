@@ -29,7 +29,7 @@ Project consists of a Selenium Webdriver, TestNG, Maven Build tool and Jhenkins 
 
 <p align="center">
 File Structure: <br/>
-<img src="[https://i.imgur.com/a/NVCSgCW](https://i.imgur.com/a/NVCSgCW)" height="80%" width="80%" alt="File Structure"/>
+<img src="https://i.imgur.com/a/NVCSgCW.png" height="80%" width="80%" alt="File Structure"/>
 <br />
 <br />
 Select the disk:  <br/>
