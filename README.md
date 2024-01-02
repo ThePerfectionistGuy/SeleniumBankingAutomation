@@ -32,7 +32,7 @@ File Structure: <br/>
 <img src="https://i.imgur.com/1PS7M0W.png" height="30%" width="30%" alt="File Structure"/>
 <br />
 <br />
-Select the disk:  <br/>
+Test Script (CODE):  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
