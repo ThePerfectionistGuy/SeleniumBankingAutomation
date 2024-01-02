@@ -37,7 +37,7 @@ Test Script (CODE):  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XhAcVo2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
