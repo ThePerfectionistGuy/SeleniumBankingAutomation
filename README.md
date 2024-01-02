@@ -44,8 +44,8 @@ Test Execution:  <br/>
 <img src="https://i.imgur.com/sBWNmxu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Test Results :  <br/>
+<img src="https://i.imgur.com/DeBZdAY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Sanitization complete:  <br/>
