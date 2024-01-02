@@ -40,8 +40,8 @@ Launch Test: <br/>
 <img src="https://i.imgur.com/XhAcVo2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Test Execution:  <br/>
+<img src="https://i.imgur.com/sBWNmxu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
