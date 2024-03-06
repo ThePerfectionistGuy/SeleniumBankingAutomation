@@ -8,6 +8,13 @@
 Project consists of a Selenium Webdriver, TestNG, Maven Build tool and Jhenkins for CI/CD intergration.I successfully automated UI elements using Selenium within the banking domain. Leveraging the power of Selenium, I developed robust scripts to streamline and enhance the testing process. This automation initiative focused on key UI elements critical to the banking application's functionality, ensuring accuracy and efficiency in the testing workflow. Through systematic test scenarios and Selenium's capabilities, the project aimed to validate the seamless interaction of users with various banking features, contributing to an overall improvement in software quality within the financial domain.
 <br />
 
+<h2>TEST ARTIFACTS</h2>
+- <b>Test Plans<b> 
+- <b>Test Strategy</b>
+- <b>Test Result </b>
+- <b> Tracebility Martrix </b>
+- <b>Software Test Report</b>
+
 
 <h2>Languages and Utilities Used</h2>
 
